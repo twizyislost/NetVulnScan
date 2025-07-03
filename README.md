@@ -20,21 +20,22 @@
 - Write clean, testable, and scalable code
 - Practice Git/GitHub workflow, including branching, pull requests, and commit hygiene
 
-## Requirements
+## Getting Started
+
+### Requirements
 - [Python (3.10+)](https://www.python.org/downloads/)
 - [rich](https://pypi.org/project/rich/)
 - [scapy](https://pypi.org/project/scapy/)
 
-## Install dependencies:
+### Install dependencies:
 * `pip install -r python/requirements.txt`
 
 ### Or manually:
 * `pip install rich scapy`
 
-## Usage
+### Usage:
 * `cd python`
 * `python main.py`
-
 You will be prompted to enter a target IP or hostname. The scanner will then enumerate ports from 1 to 1024 (default range).
 
 ## Roadmap
@@ -46,7 +47,3 @@ You will be prompted to enter a target IP or hostname. The scanner will then enu
 
 ## Contributing
 This project is maintained by a solo developer as a self-learning journey in networking and cybersecurity tooling. Code is written modularly to allow future contributions, plugin systems, or language-specific modules.
-
-## License
-MIT License — see LICENSE file for details.
-Let me know if you'd like a version that includes CI/CD badges, links to GitHub issues, or even a diagram of the architecture using ASCII or Mermaid.

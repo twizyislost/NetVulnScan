@@ -22,14 +22,14 @@
 - [scapy](https://pypi.org/project/scapy/)
 
 ## Install dependencies:
-`pip install -r python/requirements.txt`
+* `pip install -r python/requirements.txt`
 
 ### Or manually:
-`pip install rich scapy`
+* `pip install rich scapy`
 
 ## Usage
-`cd python`
-`python main.py`
+* `cd python`
+* `python main.py`
 
 You will be prompted to enter a target IP or hostname. The scanner will then enumerate ports from 1 to 1024 (default range).
 

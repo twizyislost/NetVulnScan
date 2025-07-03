@@ -16,19 +16,6 @@
 - Write clean, testable, and scalable code
 - Practice Git/GitHub workflow, including branching, pull requests, and commit hygiene
 
-## Current Structure
-net-vuln-scan/
-│
-├── python/
-│ ├── main.py # Entry point
-│ ├── scanner/
-│ │ └── ports.py # Port scanning logic
-│ ├── requirements.txt # Dependencies
-│ └── .venv/ # Virtual environment (excluded from Git)
-│
-└── README.md
-
-
 ## Requirements
 - Python 3.10+
 - [rich](https://pypi.org/project/rich/)

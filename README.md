@@ -1,5 +1,8 @@
 # NetVulnScan
-<h1 align="center" style="color:red;">STILL IN PROGRESS.</h1>
+![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3.10+-blue?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge)
+![Dependencies](https://img.shields.io/badge/dependencies-rich%20%7C%20scapy-yellow?style=for-the-badge)
 
 **NetVulnScan** is a lightweight, modular network vulnerability scanner designed for educational and research purposes. This tool allows users to scan open ports, inspect network surfaces, and identify common exposures on a given host or subnet.
 
